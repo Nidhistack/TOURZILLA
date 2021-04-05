@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CATALOG>
+<CD>
+<TITLE> 100% </TITLE>
+<ARTIST>Day - 0 to 5</ARTIST>
+</CD>
+<CD>
+<TITLE>75%</TITLE>
+<ARTIST>Day - 6 to 15</ARTIST>
+</CD>
+<CD>
+<TITLE>50%</TITLE>
+<ARTIST>Day -16 to 30</ARTIST>
+</CD>
+<CD>
+<TITLE>40%</TITLE>
+<ARTIST>Day - 31 to 45</ARTIST>
+</CD>
+<CD>
+
+<TITLE>30%</TITLE>
+<ARTIST>Day - 46 to 60</ARTIST>
+</CD>
+<CD>
+<TITLE>20%</TITLE>
+<ARTIST>Day - 61 to 90</ARTIST>
+</CD>
+<CD>
+<TITLE>15%</TITLE>
+<ARTIST>Day - 91 to 120</ARTIST>
+</CD>
+<CD>
+<TITLE>10%</TITLE>
+<ARTIST>Day - 121 to 900</ARTIST>
+</CD>
+</CATALOG>
